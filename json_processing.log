@@ -1,0 +1,332 @@
+2025-08-21 15:41:14,324 - INFO - Ditemukan 184 file JSON
+2025-08-21 15:41:14,325 - INFO - File CSV baru dibuat: dataset_kalimat_150k_1.csv
+2025-08-21 15:41:14,325 - INFO - Memproses file: export-json-2015-07-01.json
+2025-08-21 15:41:14,416 - INFO - Memproses file: export-json-2015-07-02.json
+2025-08-21 15:41:14,476 - INFO - Menulis batch 10000 kalimat. Total: 10000
+2025-08-21 15:41:14,560 - INFO - Memproses file: export-json-2015-07-03.json
+2025-08-21 15:41:14,628 - INFO - Menulis batch 10000 kalimat. Total: 20000
+2025-08-21 15:41:14,694 - INFO - Memproses file: export-json-2015-07-04.json
+2025-08-21 15:41:14,773 - INFO - Menulis batch 10000 kalimat. Total: 30000
+2025-08-21 15:41:14,784 - INFO - Memproses file: export-json-2015-07-05.json
+2025-08-21 15:41:14,838 - INFO - Memproses file: export-json-2015-07-06.json
+2025-08-21 15:41:14,942 - INFO - Menulis batch 10000 kalimat. Total: 40000
+2025-08-21 15:41:14,988 - INFO - Memproses file: export-json-2015-07-07.json
+2025-08-21 15:41:15,106 - INFO - Menulis batch 10000 kalimat. Total: 50000
+2025-08-21 15:41:15,130 - INFO - Memproses file: export-json-2015-07-08.json
+2025-08-21 15:41:15,245 - INFO - Menulis batch 10000 kalimat. Total: 60000
+2025-08-21 15:41:15,261 - INFO - Memproses file: export-json-2015-07-09.json
+2025-08-21 15:41:15,393 - INFO - Menulis batch 10000 kalimat. Total: 70000
+2025-08-21 15:41:15,406 - INFO - Memproses file: export-json-2015-07-10.json
+2025-08-21 15:41:15,497 - INFO - Memproses file: export-json-2015-07-11.json
+2025-08-21 15:41:15,555 - INFO - Menulis batch 10000 kalimat. Total: 80000
+2025-08-21 15:41:15,603 - INFO - Memproses file: export-json-2015-07-12.json
+2025-08-21 15:41:15,652 - INFO - Memproses file: export-json-2015-07-13.json
+2025-08-21 15:41:15,714 - INFO - Menulis batch 10000 kalimat. Total: 90000
+2025-08-21 15:41:15,776 - INFO - Memproses file: export-json-2015-07-14.json
+2025-08-21 15:41:15,873 - INFO - Menulis batch 10000 kalimat. Total: 100000
+2025-08-21 15:41:15,912 - INFO - Memproses file: export-json-2015-07-15.json
+2025-08-21 15:41:16,042 - INFO - Menulis batch 10000 kalimat. Total: 110000
+2025-08-21 15:41:16,048 - INFO - Memproses file: export-json-2015-07-16.json
+2025-08-21 15:41:16,099 - INFO - Memproses file: export-json-2015-07-17.json
+2025-08-21 15:41:16,147 - INFO - Memproses file: export-json-2015-07-18.json
+2025-08-21 15:41:16,214 - INFO - Menulis batch 10000 kalimat. Total: 120000
+2025-08-21 15:41:16,230 - INFO - Memproses file: export-json-2015-07-19.json
+2025-08-21 15:41:16,264 - INFO - Memproses file: export-json-2015-07-20.json
+2025-08-21 15:41:16,310 - INFO - Memproses file: export-json-2015-07-21.json
+2025-08-21 15:41:16,367 - INFO - Menulis batch 10000 kalimat. Total: 130000
+2025-08-21 15:41:16,413 - INFO - Memproses file: export-json-2015-07-22.json
+2025-08-21 15:41:16,532 - INFO - Menulis batch 10000 kalimat. Total: 140000
+2025-08-21 15:41:16,534 - INFO - Memproses file: export-json-2015-07-23.json
+2025-08-21 15:41:16,610 - INFO - Memproses file: export-json-2015-07-24.json
+2025-08-21 15:41:16,712 - INFO - Menulis batch 10000 kalimat. Total: 150000
+2025-08-21 15:41:16,746 - INFO - Memproses file: export-json-2015-07-25.json
+2025-08-21 15:41:16,786 - INFO - Memproses file: export-json-2015-07-26.json
+2025-08-21 15:41:16,876 - INFO - Menulis batch 10000 kalimat. Total: 160000
+2025-08-21 15:41:16,884 - INFO - Memproses file: export-json-2015-07-27.json
+2025-08-21 15:41:16,970 - INFO - Memproses file: export-json-2015-07-28.json
+2025-08-21 15:41:17,040 - INFO - Menulis batch 10000 kalimat. Total: 170000
+2025-08-21 15:41:17,125 - INFO - Memproses file: export-json-2015-07-29.json
+2025-08-21 15:41:17,218 - INFO - Menulis batch 10000 kalimat. Total: 180000
+2025-08-21 15:41:17,272 - INFO - Memproses file: export-json-2015-07-30.json
+2025-08-21 15:41:17,367 - INFO - Menulis batch 10000 kalimat. Total: 190000
+2025-08-21 15:41:17,406 - INFO - Memproses file: export-json-2015-07-31.json
+2025-08-21 15:41:17,509 - INFO - Menulis batch 10000 kalimat. Total: 200000
+2025-08-21 15:41:17,530 - INFO - Memproses file: export-json-2015-08-01.json
+2025-08-21 15:41:17,564 - INFO - Memproses file: export-json-2015-08-02.json
+2025-08-21 15:41:17,659 - INFO - Menulis batch 10000 kalimat. Total: 210000
+2025-08-21 15:41:17,661 - INFO - Memproses file: export-json-2015-08-03.json
+2025-08-21 15:41:17,740 - INFO - Memproses file: export-json-2015-08-04.json
+2025-08-21 15:41:17,820 - INFO - Menulis batch 10000 kalimat. Total: 220000
+2025-08-21 15:41:17,890 - INFO - Memproses file: export-json-2015-08-05.json
+2025-08-21 15:41:17,992 - INFO - Menulis batch 10000 kalimat. Total: 230000
+2025-08-21 15:41:18,055 - INFO - Memproses file: export-json-2015-08-06.json
+2025-08-21 15:41:18,179 - INFO - Menulis batch 10000 kalimat. Total: 240000
+2025-08-21 15:41:18,223 - INFO - Memproses file: export-json-2015-08-07.json
+2025-08-21 15:41:18,349 - INFO - Menulis batch 10000 kalimat. Total: 250000
+2025-08-21 15:41:18,366 - INFO - Memproses file: export-json-2015-08-08.json
+2025-08-21 15:41:18,414 - INFO - Memproses file: export-json-2015-08-09.json
+2025-08-21 15:41:18,505 - INFO - Menulis batch 10000 kalimat. Total: 260000
+2025-08-21 15:41:18,508 - INFO - Memproses file: export-json-2015-08-10.json
+2025-08-21 15:41:18,593 - INFO - Memproses file: export-json-2015-08-11.json
+2025-08-21 15:41:18,670 - INFO - Menulis batch 10000 kalimat. Total: 270000
+2025-08-21 15:41:18,727 - INFO - Memproses file: export-json-2015-08-12.json
+2025-08-21 15:41:18,819 - INFO - Menulis batch 10000 kalimat. Total: 280000
+2025-08-21 15:41:18,873 - INFO - Memproses file: export-json-2015-08-13.json
+2025-08-21 15:41:18,967 - INFO - Menulis batch 10000 kalimat. Total: 290000
+2025-08-21 15:41:19,013 - INFO - Memproses file: export-json-2015-08-14.json
+2025-08-21 15:41:19,116 - INFO - Menulis batch 10000 kalimat. Total: 300000
+2025-08-21 15:41:19,118 - INFO - File CSV dataset_kalimat_150k_2.csv ditutup. Total baris: 300000
+2025-08-21 15:41:19,119 - INFO - File CSV baru dibuat: dataset_kalimat_150k_2.csv
+2025-08-21 15:41:19,158 - INFO - Memproses file: export-json-2015-08-15.json
+2025-08-21 15:41:19,201 - INFO - Memproses file: export-json-2015-08-16.json
+2025-08-21 15:41:19,282 - INFO - Menulis batch 10000 kalimat. Total: 310000
+2025-08-21 15:41:19,307 - INFO - Memproses file: export-json-2015-08-17.json
+2025-08-21 15:41:19,371 - INFO - Memproses file: export-json-2015-08-18.json
+2025-08-21 15:41:19,443 - INFO - Menulis batch 10000 kalimat. Total: 320000
+2025-08-21 15:41:19,508 - INFO - Memproses file: export-json-2015-08-19.json
+2025-08-21 15:41:19,618 - INFO - Menulis batch 10000 kalimat. Total: 330000
+2025-08-21 15:41:19,672 - INFO - Progress: 50/184 file diproses
+2025-08-21 15:41:19,673 - INFO - Memproses file: export-json-2015-08-20.json
+2025-08-21 15:41:19,770 - INFO - Menulis batch 10000 kalimat. Total: 340000
+2025-08-21 15:41:19,811 - INFO - Memproses file: export-json-2015-08-21.json
+2025-08-21 15:41:19,928 - INFO - Menulis batch 10000 kalimat. Total: 350000
+2025-08-21 15:41:19,945 - INFO - Memproses file: export-json-2015-08-22.json
+2025-08-21 15:41:19,992 - INFO - Memproses file: export-json-2015-08-23.json
+2025-08-21 15:41:20,073 - INFO - Menulis batch 10000 kalimat. Total: 360000
+2025-08-21 15:41:20,076 - INFO - Memproses file: export-json-2015-08-24.json
+2025-08-21 15:41:20,173 - INFO - Memproses file: export-json-2015-08-25.json
+2025-08-21 15:41:20,229 - INFO - Menulis batch 10000 kalimat. Total: 370000
+2025-08-21 15:41:20,325 - INFO - Memproses file: export-json-2015-08-26.json
+2025-08-21 15:41:20,387 - INFO - Menulis batch 10000 kalimat. Total: 380000
+2025-08-21 15:41:20,475 - INFO - Memproses file: export-json-2015-08-27.json
+2025-08-21 15:41:20,545 - INFO - Menulis batch 10000 kalimat. Total: 390000
+2025-08-21 15:41:20,625 - INFO - Memproses file: export-json-2015-08-28.json
+2025-08-21 15:41:20,702 - INFO - Menulis batch 10000 kalimat. Total: 400000
+2025-08-21 15:41:20,773 - INFO - Memproses file: export-json-2015-08-29.json
+2025-08-21 15:41:20,858 - INFO - Menulis batch 10000 kalimat. Total: 410000
+2025-08-21 15:41:20,876 - INFO - Memproses file: export-json-2015-08-30.json
+2025-08-21 15:41:20,929 - INFO - Memproses file: export-json-2015-08-31.json
+2025-08-21 15:41:21,023 - INFO - Menulis batch 10000 kalimat. Total: 420000
+2025-08-21 15:41:21,082 - INFO - Memproses file: export-json-2015-09-01.json
+2025-08-21 15:41:21,184 - INFO - Menulis batch 10000 kalimat. Total: 430000
+2025-08-21 15:41:21,234 - INFO - Memproses file: export-json-2015-09-02.json
+2025-08-21 15:41:21,341 - INFO - Menulis batch 10000 kalimat. Total: 440000
+2025-08-21 15:41:21,387 - INFO - Memproses file: export-json-2015-09-03.json
+2025-08-21 15:41:21,490 - INFO - Menulis batch 10000 kalimat. Total: 450000
+2025-08-21 15:41:21,530 - INFO - Memproses file: export-json-2015-09-04.json
+2025-08-21 15:41:21,635 - INFO - Menulis batch 10000 kalimat. Total: 460000
+2025-08-21 15:41:21,659 - INFO - Memproses file: export-json-2015-09-05.json
+2025-08-21 15:41:21,706 - INFO - Memproses file: export-json-2015-09-06.json
+2025-08-21 15:41:21,789 - INFO - Menulis batch 10000 kalimat. Total: 470000
+2025-08-21 15:41:21,804 - INFO - Memproses file: export-json-2015-09-07.json
+2025-08-21 15:41:21,944 - INFO - Menulis batch 10000 kalimat. Total: 480000
+2025-08-21 15:41:21,947 - INFO - Memproses file: export-json-2015-09-08.json
+2025-08-21 15:41:22,041 - INFO - Memproses file: export-json-2015-09-09.json
+2025-08-21 15:41:22,112 - INFO - Menulis batch 10000 kalimat. Total: 490000
+2025-08-21 15:41:22,201 - INFO - Memproses file: export-json-2015-09-10.json
+2025-08-21 15:41:22,275 - INFO - Menulis batch 10000 kalimat. Total: 500000
+2025-08-21 15:41:22,350 - INFO - Memproses file: export-json-2015-09-11.json
+2025-08-21 15:41:22,425 - INFO - Menulis batch 10000 kalimat. Total: 510000
+2025-08-21 15:41:22,469 - INFO - Memproses file: export-json-2015-09-12.json
+2025-08-21 15:41:22,524 - INFO - Memproses file: export-json-2015-09-13.json
+2025-08-21 15:41:22,602 - INFO - Menulis batch 10000 kalimat. Total: 520000
+2025-08-21 15:41:22,632 - INFO - Memproses file: export-json-2015-09-14.json
+2025-08-21 15:41:22,773 - INFO - Menulis batch 10000 kalimat. Total: 530000
+2025-08-21 15:41:22,799 - INFO - Memproses file: export-json-2015-09-15.json
+2025-08-21 15:41:22,937 - INFO - Menulis batch 10000 kalimat. Total: 540000
+2025-08-21 15:41:22,956 - INFO - Memproses file: export-json-2015-09-16.json
+2025-08-21 15:41:23,090 - INFO - Menulis batch 10000 kalimat. Total: 550000
+2025-08-21 15:41:23,104 - INFO - Memproses file: export-json-2015-09-17.json
+2025-08-21 15:41:23,245 - INFO - Menulis batch 10000 kalimat. Total: 560000
+2025-08-21 15:41:23,254 - INFO - Memproses file: export-json-2015-09-18.json
+2025-08-21 15:41:23,352 - INFO - Memproses file: export-json-2015-09-19.json
+2025-08-21 15:41:23,431 - INFO - Menulis batch 10000 kalimat. Total: 570000
+2025-08-21 15:41:23,462 - INFO - Memproses file: export-json-2015-09-20.json
+2025-08-21 15:41:23,513 - INFO - Memproses file: export-json-2015-09-21.json
+2025-08-21 15:41:23,590 - INFO - Menulis batch 10000 kalimat. Total: 580000
+2025-08-21 15:41:23,643 - INFO - Memproses file: export-json-2015-09-22.json
+2025-08-21 15:41:23,738 - INFO - Menulis batch 10000 kalimat. Total: 590000
+2025-08-21 15:41:23,780 - INFO - Memproses file: export-json-2015-09-23.json
+2025-08-21 15:41:23,892 - INFO - Menulis batch 10000 kalimat. Total: 600000
+2025-08-21 15:41:23,894 - INFO - File CSV dataset_kalimat_150k_3.csv ditutup. Total baris: 300000
+2025-08-21 15:41:23,894 - INFO - File CSV baru dibuat: dataset_kalimat_150k_3.csv
+2025-08-21 15:41:23,921 - INFO - Memproses file: export-json-2015-09-24.json
+2025-08-21 15:41:23,960 - INFO - Memproses file: export-json-2015-09-25.json
+2025-08-21 15:41:24,051 - INFO - Menulis batch 10000 kalimat. Total: 610000
+2025-08-21 15:41:24,090 - INFO - Memproses file: export-json-2015-09-26.json
+2025-08-21 15:41:24,134 - INFO - Memproses file: export-json-2015-09-27.json
+2025-08-21 15:41:24,198 - INFO - Menulis batch 10000 kalimat. Total: 620000
+2025-08-21 15:41:24,227 - INFO - Memproses file: export-json-2015-09-28.json
+2025-08-21 15:41:24,376 - INFO - Menulis batch 10000 kalimat. Total: 630000
+2025-08-21 15:41:24,399 - INFO - Memproses file: export-json-2015-09-29.json
+2025-08-21 15:41:24,542 - INFO - Menulis batch 10000 kalimat. Total: 640000
+2025-08-21 15:41:24,555 - INFO - Memproses file: export-json-2015-09-30.json
+2025-08-21 15:41:24,696 - INFO - Menulis batch 10000 kalimat. Total: 650000
+2025-08-21 15:41:24,698 - INFO - Memproses file: export-json-2015-10-01.json
+2025-08-21 15:41:24,789 - INFO - Memproses file: export-json-2015-10-02.json
+2025-08-21 15:41:24,857 - INFO - Menulis batch 10000 kalimat. Total: 660000
+2025-08-21 15:41:24,917 - INFO - Memproses file: export-json-2015-10-03.json
+2025-08-21 15:41:25,004 - INFO - Menulis batch 10000 kalimat. Total: 670000
+2025-08-21 15:41:25,014 - INFO - Memproses file: export-json-2015-10-04.json
+2025-08-21 15:41:25,060 - INFO - Memproses file: export-json-2015-10-05.json
+2025-08-21 15:41:25,162 - INFO - Menulis batch 10000 kalimat. Total: 680000
+2025-08-21 15:41:25,199 - INFO - Memproses file: export-json-2015-10-06.json
+2025-08-21 15:41:25,311 - INFO - Menulis batch 10000 kalimat. Total: 690000
+2025-08-21 15:41:25,336 - INFO - Memproses file: export-json-2015-10-07.json
+2025-08-21 15:41:25,477 - INFO - Menulis batch 10000 kalimat. Total: 700000
+2025-08-21 15:41:25,500 - INFO - Memproses file: export-json-2015-10-08.json
+2025-08-21 15:41:25,655 - INFO - Menulis batch 10000 kalimat. Total: 710000
+2025-08-21 15:41:25,666 - INFO - Progress: 100/184 file diproses
+2025-08-21 15:41:25,667 - INFO - Memproses file: export-json-2015-10-09.json
+2025-08-21 15:41:25,746 - INFO - Memproses file: export-json-2015-10-10.json
+2025-08-21 15:41:25,810 - INFO - Menulis batch 10000 kalimat. Total: 720000
+2025-08-21 15:41:25,839 - INFO - Memproses file: export-json-2015-10-11.json
+2025-08-21 15:41:25,888 - INFO - Memproses file: export-json-2015-10-12.json
+2025-08-21 15:41:25,957 - INFO - Menulis batch 10000 kalimat. Total: 730000
+2025-08-21 15:41:26,012 - INFO - Memproses file: export-json-2015-10-13.json
+2025-08-21 15:41:26,100 - INFO - Menulis batch 10000 kalimat. Total: 740000
+2025-08-21 15:41:26,140 - INFO - Memproses file: export-json-2015-10-14.json
+2025-08-21 15:41:26,195 - INFO - Memproses file: export-json-2015-10-15.json
+2025-08-21 15:41:26,247 - INFO - Menulis batch 10000 kalimat. Total: 750000
+2025-08-21 15:41:26,326 - INFO - Memproses file: export-json-2015-10-16.json
+2025-08-21 15:41:26,396 - INFO - Menulis batch 10000 kalimat. Total: 760000
+2025-08-21 15:41:26,453 - INFO - Memproses file: export-json-2015-10-17.json
+2025-08-21 15:41:26,500 - INFO - Memproses file: export-json-2015-10-18.json
+2025-08-21 15:41:26,560 - INFO - Menulis batch 10000 kalimat. Total: 770000
+2025-08-21 15:41:26,604 - INFO - Memproses file: export-json-2015-10-19.json
+2025-08-21 15:41:26,721 - INFO - Menulis batch 10000 kalimat. Total: 780000
+2025-08-21 15:41:26,744 - INFO - Memproses file: export-json-2015-10-20.json
+2025-08-21 15:41:26,872 - INFO - Menulis batch 10000 kalimat. Total: 790000
+2025-08-21 15:41:26,890 - INFO - Memproses file: export-json-2015-10-21.json
+2025-08-21 15:41:27,031 - INFO - Menulis batch 10000 kalimat. Total: 800000
+2025-08-21 15:41:27,040 - INFO - Memproses file: export-json-2015-10-22.json
+2025-08-21 15:41:27,130 - INFO - Memproses file: export-json-2015-10-23.json
+2025-08-21 15:41:27,191 - INFO - Menulis batch 10000 kalimat. Total: 810000
+2025-08-21 15:41:27,256 - INFO - Memproses file: export-json-2015-10-24.json
+2025-08-21 15:41:27,337 - INFO - Menulis batch 10000 kalimat. Total: 820000
+2025-08-21 15:41:27,349 - INFO - Memproses file: export-json-2015-10-25.json
+2025-08-21 15:41:27,410 - INFO - Memproses file: export-json-2015-10-26.json
+2025-08-21 15:41:27,497 - INFO - Menulis batch 10000 kalimat. Total: 830000
+2025-08-21 15:41:27,548 - INFO - Memproses file: export-json-2015-10-27.json
+2025-08-21 15:41:27,659 - INFO - Menulis batch 10000 kalimat. Total: 840000
+2025-08-21 15:41:27,689 - INFO - Memproses file: export-json-2015-10-28.json
+2025-08-21 15:41:27,778 - INFO - Memproses file: export-json-2015-10-29.json
+2025-08-21 15:41:27,840 - INFO - Menulis batch 10000 kalimat. Total: 850000
+2025-08-21 15:41:27,922 - INFO - Memproses file: export-json-2015-10-30.json
+2025-08-21 15:41:28,002 - INFO - Menulis batch 10000 kalimat. Total: 860000
+2025-08-21 15:41:28,050 - INFO - Memproses file: export-json-2015-10-31.json
+2025-08-21 15:41:28,093 - INFO - Memproses file: export-json-2015-11-01.json
+2025-08-21 15:41:28,161 - INFO - Menulis batch 10000 kalimat. Total: 870000
+2025-08-21 15:41:28,184 - INFO - Memproses file: export-json-2015-11-02.json
+2025-08-21 15:41:28,270 - INFO - Memproses file: export-json-2015-11-03.json
+2025-08-21 15:41:28,333 - INFO - Menulis batch 10000 kalimat. Total: 880000
+2025-08-21 15:41:28,403 - INFO - Memproses file: export-json-2015-11-04.json
+2025-08-21 15:41:28,485 - INFO - Menulis batch 10000 kalimat. Total: 890000
+2025-08-21 15:41:28,531 - INFO - Memproses file: export-json-2015-11-05.json
+2025-08-21 15:41:28,643 - INFO - Menulis batch 10000 kalimat. Total: 900000
+2025-08-21 15:41:28,644 - INFO - File CSV dataset_kalimat_150k_4.csv ditutup. Total baris: 300000
+2025-08-21 15:41:28,645 - INFO - File CSV baru dibuat: dataset_kalimat_150k_4.csv
+2025-08-21 15:41:28,676 - INFO - Memproses file: export-json-2015-11-06.json
+2025-08-21 15:41:28,816 - INFO - Menulis batch 10000 kalimat. Total: 910000
+2025-08-21 15:41:28,830 - INFO - Memproses file: export-json-2015-11-07.json
+2025-08-21 15:41:28,879 - INFO - Memproses file: export-json-2015-11-08.json
+2025-08-21 15:41:28,982 - INFO - Menulis batch 10000 kalimat. Total: 920000
+2025-08-21 15:41:28,985 - INFO - Memproses file: export-json-2015-11-09.json
+2025-08-21 15:41:29,072 - INFO - Memproses file: export-json-2015-11-10.json
+2025-08-21 15:41:29,152 - INFO - Menulis batch 10000 kalimat. Total: 930000
+2025-08-21 15:41:29,216 - INFO - Memproses file: export-json-2015-11-11.json
+2025-08-21 15:41:29,317 - INFO - Menulis batch 10000 kalimat. Total: 940000
+2025-08-21 15:41:29,356 - INFO - Memproses file: export-json-2015-11-12.json
+2025-08-21 15:41:29,480 - INFO - Menulis batch 10000 kalimat. Total: 950000
+2025-08-21 15:41:29,498 - INFO - Memproses file: export-json-2015-11-13.json
+2025-08-21 15:41:29,579 - INFO - Memproses file: export-json-2015-11-14.json
+2025-08-21 15:41:29,636 - INFO - Menulis batch 10000 kalimat. Total: 960000
+2025-08-21 15:41:29,669 - INFO - Memproses file: export-json-2015-11-15.json
+2025-08-21 15:41:29,705 - INFO - Memproses file: export-json-2015-11-16.json
+2025-08-21 15:41:29,800 - INFO - Menulis batch 10000 kalimat. Total: 970000
+2025-08-21 15:41:29,837 - INFO - Memproses file: export-json-2015-11-17.json
+2025-08-21 15:41:29,962 - INFO - Menulis batch 10000 kalimat. Total: 980000
+2025-08-21 15:41:29,985 - INFO - Memproses file: export-json-2015-11-18.json
+2025-08-21 15:41:30,081 - INFO - Memproses file: export-json-2015-11-19.json
+2025-08-21 15:41:30,146 - INFO - Menulis batch 10000 kalimat. Total: 990000
+2025-08-21 15:41:30,238 - INFO - Memproses file: export-json-2015-11-20.json
+2025-08-21 15:41:30,311 - INFO - Menulis batch 10000 kalimat. Total: 1000000
+2025-08-21 15:41:30,359 - INFO - Memproses file: export-json-2015-11-21.json
+2025-08-21 15:41:30,406 - INFO - Memproses file: export-json-2015-11-22.json
+2025-08-21 15:41:30,466 - INFO - Menulis batch 10000 kalimat. Total: 1010000
+2025-08-21 15:41:30,493 - INFO - Memproses file: export-json-2015-11-23.json
+2025-08-21 15:41:30,620 - INFO - Menulis batch 10000 kalimat. Total: 1020000
+2025-08-21 15:41:30,625 - INFO - Memproses file: export-json-2015-11-24.json
+2025-08-21 15:41:30,713 - INFO - Memproses file: export-json-2015-11-25.json
+2025-08-21 15:41:30,777 - INFO - Menulis batch 10000 kalimat. Total: 1030000
+2025-08-21 15:41:30,839 - INFO - Memproses file: export-json-2015-11-26.json
+2025-08-21 15:41:30,919 - INFO - Menulis batch 10000 kalimat. Total: 1040000
+2025-08-21 15:41:30,966 - INFO - Memproses file: export-json-2015-11-27.json
+2025-08-21 15:41:31,073 - INFO - Menulis batch 10000 kalimat. Total: 1050000
+2025-08-21 15:41:31,096 - INFO - Progress: 150/184 file diproses
+2025-08-21 15:41:31,096 - INFO - Memproses file: export-json-2015-11-28.json
+2025-08-21 15:41:31,138 - INFO - Memproses file: export-json-2015-11-29.json
+2025-08-21 15:41:31,182 - INFO - Memproses file: export-json-2015-11-30.json
+2025-08-21 15:41:31,246 - INFO - Menulis batch 10000 kalimat. Total: 1060000
+2025-08-21 15:41:31,322 - INFO - Memproses file: export-json-2015-12-01.json
+2025-08-21 15:41:31,404 - INFO - Menulis batch 10000 kalimat. Total: 1070000
+2025-08-21 15:41:31,455 - INFO - Memproses file: export-json-2015-12-02.json
+2025-08-21 15:41:31,565 - INFO - Menulis batch 10000 kalimat. Total: 1080000
+2025-08-21 15:41:31,606 - INFO - Memproses file: export-json-2015-12-03.json
+2025-08-21 15:41:31,725 - INFO - Menulis batch 10000 kalimat. Total: 1090000
+2025-08-21 15:41:31,745 - INFO - Memproses file: export-json-2015-12-04.json
+2025-08-21 15:41:31,844 - INFO - Memproses file: export-json-2015-12-05.json
+2025-08-21 15:41:31,894 - INFO - Menulis batch 10000 kalimat. Total: 1100000
+2025-08-21 15:41:31,921 - INFO - Memproses file: export-json-2015-12-06.json
+2025-08-21 15:41:31,955 - INFO - Memproses file: export-json-2015-12-07.json
+2025-08-21 15:41:32,034 - INFO - Menulis batch 10000 kalimat. Total: 1110000
+2025-08-21 15:41:32,075 - INFO - Memproses file: export-json-2015-12-08.json
+2025-08-21 15:41:32,178 - INFO - Menulis batch 10000 kalimat. Total: 1120000
+2025-08-21 15:41:32,208 - INFO - Memproses file: export-json-2015-12-09.json
+2025-08-21 15:41:32,334 - INFO - Menulis batch 10000 kalimat. Total: 1130000
+2025-08-21 15:41:32,345 - INFO - Memproses file: export-json-2015-12-10.json
+2025-08-21 15:41:32,455 - INFO - Memproses file: export-json-2015-12-11.json
+2025-08-21 15:41:32,518 - INFO - Menulis batch 10000 kalimat. Total: 1140000
+2025-08-21 15:41:32,588 - INFO - Memproses file: export-json-2015-12-12.json
+2025-08-21 15:41:32,686 - INFO - Menulis batch 10000 kalimat. Total: 1150000
+2025-08-21 15:41:32,696 - INFO - Memproses file: export-json-2015-12-13.json
+2025-08-21 15:41:32,739 - INFO - Memproses file: export-json-2015-12-14.json
+2025-08-21 15:41:32,859 - INFO - Menulis batch 10000 kalimat. Total: 1160000
+2025-08-21 15:41:32,904 - INFO - Memproses file: export-json-2015-12-15.json
+2025-08-21 15:41:33,012 - INFO - Menulis batch 10000 kalimat. Total: 1170000
+2025-08-21 15:41:33,046 - INFO - Memproses file: export-json-2015-12-16.json
+2025-08-21 15:41:33,156 - INFO - Menulis batch 10000 kalimat. Total: 1180000
+2025-08-21 15:41:33,186 - INFO - Memproses file: export-json-2015-12-17.json
+2025-08-21 15:41:33,302 - INFO - Menulis batch 10000 kalimat. Total: 1190000
+2025-08-21 15:41:33,323 - INFO - Memproses file: export-json-2015-12-18.json
+2025-08-21 15:41:33,461 - INFO - Menulis batch 10000 kalimat. Total: 1200000
+2025-08-21 15:41:33,462 - INFO - File CSV dataset_kalimat_150k_5.csv ditutup. Total baris: 300000
+2025-08-21 15:41:33,464 - INFO - File CSV baru dibuat: dataset_kalimat_150k_5.csv
+2025-08-21 15:41:33,471 - INFO - Memproses file: export-json-2015-12-19.json
+2025-08-21 15:41:33,533 - INFO - Memproses file: export-json-2015-12-20.json
+2025-08-21 15:41:33,625 - INFO - Menulis batch 10000 kalimat. Total: 1210000
+2025-08-21 15:41:33,626 - INFO - Memproses file: export-json-2015-12-21.json
+2025-08-21 15:41:33,712 - INFO - Memproses file: export-json-2015-12-22.json
+2025-08-21 15:41:33,815 - INFO - Menulis batch 10000 kalimat. Total: 1220000
+2025-08-21 15:41:33,886 - INFO - Memproses file: export-json-2015-12-23.json
+2025-08-21 15:41:33,991 - INFO - Menulis batch 10000 kalimat. Total: 1230000
+2025-08-21 15:41:34,021 - INFO - Memproses file: export-json-2015-12-24.json
+2025-08-21 15:41:34,078 - INFO - Memproses file: export-json-2015-12-25.json
+2025-08-21 15:41:34,157 - INFO - Menulis batch 10000 kalimat. Total: 1240000
+2025-08-21 15:41:34,175 - INFO - Memproses file: export-json-2015-12-26.json
+2025-08-21 15:41:34,216 - INFO - Memproses file: export-json-2015-12-27.json
+2025-08-21 15:41:34,258 - INFO - Memproses file: export-json-2015-12-28.json
+2025-08-21 15:41:34,316 - INFO - Menulis batch 10000 kalimat. Total: 1250000
+2025-08-21 15:41:34,383 - INFO - Memproses file: export-json-2015-12-29.json
+2025-08-21 15:41:34,469 - INFO - Menulis batch 10000 kalimat. Total: 1260000
+2025-08-21 15:41:34,520 - INFO - Memproses file: export-json-2015-12-30.json
+2025-08-21 15:41:34,620 - INFO - Menulis batch 10000 kalimat. Total: 1270000
+2025-08-21 15:41:34,649 - INFO - Memproses file: export-json-2015-12-31.json
+2025-08-21 15:41:34,766 - INFO - Menulis batch terakhir 9592 kalimat
+2025-08-21 15:41:34,766 - INFO - File CSV dataset_kalimat_150k_5.csv ditutup. Total baris: 79592
+2025-08-21 15:41:34,766 - INFO - ==================================================
+2025-08-21 15:41:34,766 - INFO - PROSES SELESAI!
+2025-08-21 15:41:34,767 - INFO - Total file diproses: 184
+2025-08-21 15:41:34,767 - INFO - Total kalimat: 1279592
+2025-08-21 15:41:34,767 - INFO - File CSV output: dataset_kalimat_150k_1.csv, dataset_kalimat_150k_2.csv, dll.
+2025-08-21 15:41:34,767 - INFO - ==================================================
