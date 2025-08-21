@@ -1,5 +1,3 @@
-Sip, biar makin lengkap saya update README-nya dengan sumber dataset dari Mendeley 👍
-
 # Program Pengolah Dataset JSON ke CSV
 
 ## 📌 Deskripsi
