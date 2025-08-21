@@ -48,8 +48,8 @@ dataset\_kalimat\_150k\_3.csv
 
 ### 1. Clone / Salin Project
 ```bash
-git clone <repo-anda>
-cd DatasetProcessing
+git clone https://github.com/GratiaManullang03/news-dataset-processing
+cd news-dataset-processing
 ````
 
 ### 2. Download Dataset
